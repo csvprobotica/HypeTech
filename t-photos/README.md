@@ -1,4 +1,9 @@
 Team's photos
 ====
 
-This directory must contain 2 photos of the team (an official one and one funny photo with all team members)
+This directory contains two pictures of our team for this competition, one normal and the other funny.
+
+The _HypeTech_ team is integrated by Angel Herrera, Guillermo Espinosa and Alexis Jesus Murillo, who represent Colegio San Vicente de Paúl in this Future Engineers competition.
+
+![Regular](https://github.com/csvprobotica/HypeTech/blob/main/t-photos/HypeTech_Team-1.jpg)
+![Funny](https://github.com/csvprobotica/HypeTech/blob/main/t-photos/HypeTech_Team-2.jpg)
