@@ -5,7 +5,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Content
 
-* [`schemes`](https://github.com/csvprobotica/HypeTech/tree/main/schemes) contains a schematic diagram in PNG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
+* [`schemes`](https://github.com/csvprobotica/HypeTech/tree/main/schemes) contains a schematic diagram in JPG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
 * [`src`](https://github.com/csvprobotica/HypeTech/tree/main/src) contains code of control software for all components which were programmed to participate in the competition.
 * [`t-photos`](https://github.com/csvprobotica/HypeTech/tree/main/t-photos) contains 2 photos of the team (an official one and one funny photo with all team members).
 * [`v-photos`](https://github.com/csvprobotica/HypeTech/tree/main/v-photos) contains 6 photos of the vehicle (from every side, from top and bottom).
