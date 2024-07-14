@@ -1,11 +1,6 @@
-Electromechanical diagrams
-====
+## Models
+This directory contains the 3D modeling files for the construction of our robot.  To run the 3D modeling files requires the [`Studio 2.0`](https://www.bricklink.com/v3/studio/download.page) application, which allows us to build, render and create instructions.
 
-This directory contains a [`connection diagram`](https://github.com/csvprobotica/HypeTech/blob/main/schemes/Diagrama%20de%20Conexi%C3%B3n.jpg) where all the ports used are distributed, a [`list of electronic components`](https://github.com/csvprobotica/HypeTech/blob/main/schemes/Listado%20de%20Componentes.png) in which each of the elements used are described.
+## Robot 3D Assembly
 
-## Connection diagram
-![Regular](https://github.com/csvprobotica/HypeTech/blob/main/schemes/Diagrama%20de%20Conexi%C3%B3n.jpg)
-
-## Electronic Components
-![Regular](https://github.com/csvprobotica/HypeTech/blob/main/schemes/Listado%20de%20Componentes.png)
-
+Here is a view of the robot design modeled in 3D.
