@@ -1,4 +1,5 @@
 ## HypeTech WRO 2024
+The HypeTech team is integrated by Guillermo Espinosa, Angel Herrera and Jesus Murillo, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition.
 
 Engineering materials
 ====
