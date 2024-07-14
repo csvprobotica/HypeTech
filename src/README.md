@@ -6,7 +6,7 @@ This directory contains the main [`source code`](https://github.com/csvprobotica
 All the programming was modified by ourselves.
 
 ## Code Block EV3-G
-We present a screenshot of version 2 of the source code used in the programming.
+Here is a screenshot of the source code used with version 2.
 
 ![Regular](https://github.com/csvprobotica/HypeTech/blob/main/src/EV3-G%20Blocks.png)
 
