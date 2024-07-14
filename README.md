@@ -1,7 +1,19 @@
+## HypeTech WRO 2024
+
 Engineering materials
 ====
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
+
+Elements of our robot:
+* 1 LEGO Mindstorms EV3 brick 45500
+* 1 Rechargeable battery DC 2050mAh 45501
+* 1 EV3 L-Servo Motor 45502
+* 1 EV3 M-Servo Motor 45503
+* 2 Technic Distance Sensor 45504
+* 1 Technic Color Sensor 45506
+* 1 Gyroscope Sensor 45505
+* 3D modeling designs for assembly
 
 ## Content
 
