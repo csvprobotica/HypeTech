@@ -3,4 +3,7 @@ Control software
 
 This directory contains the main [`source code`](https://github.com/csvprobotica/HypeTech/blob/main/src/HypeTech_V2.ev3) realized in a block system using the Lego EV3-G Blocks program.
 
-All the programming has been done by ourselves.
+All the programming was modified by ourselves.
+
+We present a screenshot of a part of the source code used in the programming.
+
