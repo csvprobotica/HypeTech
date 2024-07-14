@@ -18,7 +18,7 @@ Elements of our robot:
 
 ## Content
 
-* [`models`](s) in this directory you will find the 3D modeled files for the assembly of the robot and its components.
+* [`models`](https://github.com/csvprobotica/HypeTech/tree/main/models) in this directory you will find the 3D modeled files for the assembly of the robot and its components.
 * [`other`](https://github.com/csvprobotica/HypeTech/blob/main/other/Flowchart.pngr) in this directory you will find additional files of the robot operation, process diagram and execution.
 * [`schemes`](https://github.com/csvprobotica/HypeTech/tree/main/schemes) contains a schematic diagram in JPG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
 * [`src`](https://github.com/csvprobotica/HypeTech/tree/main/src) contains code of control software for all components which were programmed to participate in the competition.
